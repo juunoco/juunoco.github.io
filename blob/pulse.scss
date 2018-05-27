@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster+Two");
+/*animating the pulsating circles*/
+h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 5rem;
+  text-shadow: 0px 1px 0px white;
+  color: #343434; }
+
+.container {
+  position: relative;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  overflow: hidden; }
+
+.pulse {
+  z-index: -1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 30rem; }
+  .pulse circle {
+    fill: #cccccc;
+    transform: scale(0);
+    opacity: 0;
+    transform-origin: 50% 50%;
+    animation: pulse 1.5s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(2) {
+      fill: #F26E51;
+      animation: pulse 2s 0.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(3) {
+      fill: #F7AD41;
+      animation: pulse 2s 1.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(4) {
+      fill: #F8D733;
+      animation: pulse 2s 2.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(5) {
+      fill: #8AC76E;
+      animation: pulse 2s 3.4s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(6) {
+      fill: #64C29E;
+      animation: pulse 2s 4.1s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(7) {
+      fill: #8AC76E;
+      animation: pulse 2s 5s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(8) {
+      fill: #54A1D8;
+      animation: pulse 2s 6.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(9) {
+      fill: #737FBD;
+      animation: pulse 2s 7.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(10) {
+      fill: #8F68AB;
+      animation: pulse 2s 8.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(11) {
+      fill: #BF5FA4;
+      animation: pulse 2s 9.75s cubic-bezier(0.5, 0.5, 0, 1); }
+    .pulse circle:nth-child(12) {
+      fill: #EE508C;
+      animation: pulse 2s 10.75s cubic-bezier(0.5, 0.5, 0, 1); }
+
+@keyframes pulse {
+  25% {
+    opacity: 0.4; }
+  100% {
+    transform: scale(1); } }
+
+/*# sourceMappingURL=pulse.scss.map */

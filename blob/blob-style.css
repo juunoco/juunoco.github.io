@@ -1,0 +1,52 @@
+
+#reveal-div{
+	min-height: 80vh;
+	min-width: 80vh;
+	width: 100%;
+	background-color: #eee;
+}
+
+.scroll-container {
+	display: block;
+}
+
+#container1 {
+	text-align: center;
+	align-content: center;
+	margin: auto;
+	width: 100vw;
+	display: flex;
+}
+
+#scroll-down{
+	background-color: white;
+	min-height: 20vh;
+	max-height: 20vh;
+}
+
+#scroll-btn {
+	position: absolute;
+	margin: auto;
+	top: 100px;
+	left: 100px;
+	margin-left: 200px;
+	margin-bottom: -10%;
+}
+
+#badge-div {
+	display: block;
+	height: 10vh;
+	width: 100vw;
+}
+
+.badges{
+	margin: 2em;
+	width: 12em;
+	height: auto;
+}
+
+#back-button{
+	position: absolute;
+	top: 5%;
+	right: 10%;
+}
