@@ -1,0 +1,70 @@
+a, a:visited, a:hover, a:active {
+	color: inherit;
+	color: black;
+}
+
+
+#back-button{
+	position: absolute;
+	top: 5%;
+	right: 10%;
+}
+
+.about-p{
+	margin-top: 5%;
+}
+
+
+.flex-container {
+	display: flex;
+	/*
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	*/
+	
+}
+
+.title {
+	display: inline-block;
+}
+
+.overlay-container {
+	position: relative;
+	width: 100%;
+}
+
+.image {
+	display: block;
+	width: 10%;
+	height: 10%;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	border-radius: 20px;
+	opacity: 0;
+	transition:1.2s ease;
+	background-color: #008CBA;
+}
+
+.overlay-container:hover .overlay {
+	opacity: 0.875;
+}
+
+.img-text {
+	color: white;
+	font-size: 2em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+}
