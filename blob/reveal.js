@@ -20,7 +20,8 @@ $(document).ready(function() {
 	inView('.b-section, transition-div').on('enter', function(el){
 		//console.log("section entered");
 	  var color = $(el).attr('data-background-color');
-	  updateColors(color);
+	  //TODO, buggy, so removed
+	  //updateColors(color);
 	});
 	// inView('.transition-div').on('exit', function(el){
 	// 	console.log("section exited");

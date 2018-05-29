@@ -20,7 +20,7 @@ body{
 }
 
 .transition-div {
-  height: 100vh;
+  height: 10vh; /* from 100vh */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -35,7 +35,7 @@ body{
 }
 
 .spacer {
-  height: 80vh;
+  height: 10vh; /* from 80vh */
 }
 
 .changeToTransition {
