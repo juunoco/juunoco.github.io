@@ -1,0 +1,62 @@
+$clouds: white;
+$dark: rgb(150,150,150);
+
+body{
+  font-size: 100%;
+  background: $clouds;
+  transition: .6s all;
+}
+/*
+.wrapper {
+  transition: background 1.5s ease;
+  overflow: hidden;
+}
+*/
+.b-section {
+  height: 110vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.transition-div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: flex-start;
+}
+
+.transition-blob {
+  height: 2em;
+  width: 2em;
+  background-color: red;
+  border-radius: 4em;
+}
+
+.spacer {
+  height: 80vh;
+}
+
+.changeToTransition {
+   background: $dark !important;
+   transition: .6s all;
+}
+
+.changeToNormal{
+  background: $clouds !important;
+  transition: .6s all;
+}
+
+.short {
+  height: (100vh / 3);
+}
+
+.title {
+  white-space: nowrap;
+  font-color: $clouds;
+  
+  a {
+    color: inherit;
+  }
+}

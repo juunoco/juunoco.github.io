@@ -13,8 +13,11 @@ h1 {
   align-items: center;
   justify-content: center;
   min-height: 80vh;
+  width: 100vw;
+  border-radius: 24px;
   overflow: hidden; }
 
+/*rgba(0,0,0,0)*/
 .pulse {
   z-index: -1;
   position: absolute;
