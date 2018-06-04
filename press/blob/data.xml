@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Blob</title>
+	<release-date>February 1, 2018</release-date>
+	<website>https://juunoco.github.io/blob</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Google Play Store</name>
+			<link>https://juunoco.github.io/blob</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link></link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Free to Play</currency>
+			<value>$0.00</value>
+		</price>
+		<price>
+			<currency>Premium Level Pack</currency>
+			<value>$4.00 (approx)</value>
+		</price>
+		<price>
+			<currency>Hints</currency>
+			<value>Various</value>
+		</price>				
+		<price>
+			<currency>HeadStart (Unlock the first slice of every level)</currency>
+			<value>$3.00 (approx)</value>
+		</price>
+	</prices>
+
+	<description>
+	The idea for Blob came about when Jun was attending a defensive driving course, he scribbled some ideas and shapes on tissue, a few days later, he showed Donna a game with a slicing mechanic, and she liked it so much that they decided to start working on it. Six months later, they are planning a release on Android, and are getting ready for an iOS release in the near future. Needless to say, Jun did not finish his defensive driving course.     
+			
+	The idea for Blob is a little abstract, imagine that you have one chunk of cake to distribute to two people, how do you distribute it to them equally? That's easy, you give them half of the cake each. But what if there's three people who want the cake? Or Five people? Then it quickly starts to become more complicated, and what if each person wants a different amount of the cake? We think that this is what Blob is about, having one portion of something, and dishing it out to many people properly.      
+	
+	It's a puzzle game where the order of your actions, and where you slice matters, and you need to get everything just right in order to beat a level, you need to try and create as much space as possible, as well as do it in exactly the right way.
+	</description>
+	
+	<history>
+	Both Jun and Donna were new to development, and it was their first time working with Mobile platforms, there were many technical hurdles that needed to be overcome. Project Management and Planning were also new avenues of learning, and needed to be picked up. 
+			
+			After discussion, Native development in both Android and iOS was chosen over Unity. This meant that a lot of code could be tampered with and we worked 'closer to the metal', but much more time would be required for development. It also provided us to develop much needed skills in coding and in the creation of a product.
+	</history>
+
+	<features>
+		<feature>Meditative Slicing and Dicing of Blobs</feature>
+		<feature>Rounded Rectangles that bring out your inner Kawaii</feature>
+		<feature>Unique soundtrack with cool chord progressions and melodic counterpoint</feature>
+		<feature>Challenging levels that really get you thinking</feature>
+		<feature>Really fun level progression, and clever usage of game material</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>We're still making a trailer!</name>
+			<youtube></youtube>
+			<vimeo></vimeo>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description></description>
+			<info></info>
+		</award>
+	</awards>
+	
+	<quotes>
+
+		<quote>
+			<description>h</description>
+			<name>h</name>
+			<website>h</website>
+			<link>h</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>https://juunoco.github.io/blog/</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Jun Kagaya</person>
+			<role>Development - Music</role>
+		</credit>
+		<credit>
+			<person>Donna Dychinco</person>
+			<role>Development - Art</role>
+		</credit>
+	</credits>
+</game>

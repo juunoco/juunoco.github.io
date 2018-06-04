@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Juunoco</title>
+	<founding-date>February 1, 2018</founding-date>
+	<website>https://juunoco.github.io/</website>
+	<based-in>Auckland, New Zealand</based-in>
+	
+	<press-contact>juunoco@gmail.com</press-contact>
+	<phone>+64 0220910069</phone>
+	<address>
+		<line>135 Anzac Avenue</line>
+		<line>Auckland</line>
+		<line>New Zealand</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>https://twitter.com/juunoco1</name>
+			<link>https://twitter.com/juunoco1</link>
+		</social>
+		<social>
+			<name>https://www.facebook.com/juunoco/</name>
+			<link>https://www.facebook.com/juunoco/</link>
+		</social>
+		<social>
+			<name></name>
+			<link></link>
+		</social>
+	</socials>
+
+	<description>	
+		We're an Indie Studio based in Auckland New Zealand, founded by Jun and Donna. We're interested in developing apps and games in modern platforms.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Who is Juunoco?</header>
+			<text>
+			Juunoco is founded by two Uni Graduates, Jun and Donna who want to bring their passion for games to other people.
+			</text>
+		</history>
+		<history>
+			<header>Our history</header>
+			<text>We've only just founded ourselves, and are excited to release our first project, Blob, to the market. We think it's a cool idea, and are confident that you will enjoy it as well.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name></name>
+			<youtube></youtube>
+		</trailer>
+		<trailer>
+			<name></name>
+			<youtube></youtube>
+			<vimeo></vimeo>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>We're Working Hard </description>
+			<info>to Put an Award Here</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>How we started making our first game</description>
+			<name>It's on our blog</name>
+			<website>Let's talk about our first game</website>
+			<link>https://juunoco.github.io/blog/general/2018/01/31/introductionToBlob.html</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>About Us</title>
+			<description>If you wanted to know a little bit more about us check out</description>
+			<link>https://juunoco.github.io/about</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Jun Kagaya</person>
+			<website>https://github.com/gieoon</website>
+			<role>Development - Musician</role>
+		</credit>
+		<credit>
+			<person>Donna Dychinco</person>
+			<website>https://github.com/donnacello</website>
+			<role>Development - Art</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>juunoco@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Our Twitter</name>
+			<link>https://twitter.com/juunoco1</link>
+		</contact>
+		<contact>
+			<name>Our Facebook</name>
+			<link>https://www.facebook.com/juunoco/</link>
+		</contact>
+		<contact>
+			<name>We have a Website</name>
+			<link>https://juunoco.github.io</link>
+		</contact>
+	</contacts>
+</game>
