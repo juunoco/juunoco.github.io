@@ -2,6 +2,7 @@
 
 if( file_exists('install.php') )
 {
+	header("Content-Type: text/plain");
 	header("Location: install.php");
 	exit;
 }
