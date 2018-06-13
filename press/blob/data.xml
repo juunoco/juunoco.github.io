@@ -9,11 +9,7 @@
 	<platforms>
 		<platform>
 			<name>Google Play Store</name>
-			<link>https://juunoco.github.io/blob</link>
-		</platform>
-		<platform>
-			<name>Apple App Store</name>
-			<link></link>
+			<link>juunoco.github.io/blob</link>
 		</platform>
 	</platforms>
 	

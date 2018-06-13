@@ -62,7 +62,7 @@ include 'lang/TranslateTool.php';
 $language = TranslateTool::loadLanguage(isset($_GET['l']) ? $_GET['l'] : null, 'index.php');
 $languageQuery = ($language != TranslateTool::getDefaultLanguage() ? '?l='. $language : '');
 
-header("Content-Type: text/plain");
+//header("Content-Type: text/plain");
 if (file_exists('data-'. $language .'.xml'))
 	$xml = simplexml_load_file('data-'. $language .'.xml');
 else
