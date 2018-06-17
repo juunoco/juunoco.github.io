@@ -1,3 +1,4 @@
+/*
 html {
 	position: relative;
 	min-height: 100%;
@@ -12,9 +13,9 @@ a, a:visited, a:hover, a:active {
 	color: inherit;
 	color: black;
 }
-
+*/
 .pageContentWrapper{
-  margin-bottom:100px;/* Height of footer*/
+  /*margin-bottom:100px;*//* Height of footer*/
 } 
 
 #footer {
@@ -73,7 +74,7 @@ a, a:visited, a:hover, a:active {
 	border-radius: 20px;
 	opacity: 0;
 	transition:1.2s ease;
-	background-color: #008CBA;
+	background-color:  #ffffff; /*#008CBA;*/
 }
 
 .overlay-container:hover .overlay {
@@ -81,7 +82,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .img-text {
-	color: white;
+	color: black;
 	font-size: 2em;
 	position: absolute;
 	top: 50%;
@@ -90,3 +91,14 @@ a, a:visited, a:hover, a:active {
 	-ms-transform: translate(-50%, -50%);
 	text-align: center;
 }
+
+#ad-text {
+	font-size: 4em;
+	text-align: center;
+}
+
+.badgeAd {
+	width: 10%;
+	height: 10%;
+}
+
