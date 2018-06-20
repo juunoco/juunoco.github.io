@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <game>
-	<title>Blob</title>
+	<title>Portions</title>
 	<release-date>February 1, 2018</release-date>
-	<website>https://juunoco.github.io/blob</website>
+	<website>https://juunoco.github.io/portions</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
 		<platform>
 			<name>Google Play Store</name>
-			<link>juunoco.github.io/blob</link>
+			<link>juunoco.github.io/portions</link>
 		</platform>
 	</platforms>
 	
@@ -33,9 +33,9 @@
 	</prices>
 
 	<description>
-	The idea for Blob came about when Jun was attending a defensive driving course, he scribbled some ideas and shapes on tissue, a few days later, he showed Donna a game with a slicing mechanic, and she liked it so much that they decided to start working on it. Six months later, they are planning a release on Android, and are getting ready for an iOS release in the near future. Needless to say, Jun did not finish his defensive driving course.     
+	The idea for Portions came about when Jun was attending a defensive driving course, he scribbled some ideas and shapes on tissue, a few days later, he showed Donna a game with a slicing mechanic, and she liked it so much that they decided to start working on it. Six months later, they are planning a release on Android, and are getting ready for an iOS release in the near future. Needless to say, Jun did not finish his defensive driving course.     
 			
-	The idea for Blob is a little abstract, imagine that you have one chunk of cake to distribute to two people, how do you distribute it to them equally? That's easy, you give them half of the cake each. But what if there's three people who want the cake? Or Five people? Then it quickly starts to become more complicated, and what if each person wants a different amount of the cake? We think that this is what Blob is about, having one portion of something, and dishing it out to many people properly.      
+	The idea for Portions is a little abstract, imagine that you have one chunk of cake to distribute to two people, how do you distribute it to them equally? That's easy, you give them half of the cake each. But what if there's three people who want the cake? Or Five people? Then it quickly starts to become more complicated, and what if each person wants a different amount of the cake? We think that this is what Portions is about, having one portion of something, and dishing it out to many people properly.      
 	
 	It's a puzzle game where the order of your actions, and where you slice matters, and you need to get everything just right in order to beat a level, you need to try and create as much space as possible, as well as do it in exactly the right way.
 	</description>
@@ -72,10 +72,10 @@
 	<quotes>
 
 		<quote>
-			<description>h</description>
-			<name>h</name>
-			<website>h</website>
-			<link>h</link>
+			<description></description>
+			<name></name>
+			<website></website>
+			<link></link>
 		</quote>
 	</quotes>
 	
